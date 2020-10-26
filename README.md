@@ -1,24 +1,22 @@
-# README
+# Flatiron Ranch
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Flatiron Ranch gives the user the opportunity to not only play an interactive game, it also teaches them about many things farm related!
+- Flatiron Ranch also gives the user an option between three different languages to play the game and read the site in! (English, Spanish, Croatian)
+- This was a pair project during Flatiron module 3. 
 
-Things you may want to cover:
+## Features I Worked On
 
-* Ruby version
+- All of the game logic for the guessing game.
+- Responsive styling of the website. 
+- Website translation between three different languages at the click of a button.
 
-* System dependencies
 
-* Configuration
+## Technologies
 
-* Database creation
+- Built with Vanilla Javascript using a Ruby on Rails API backend.
+- Bootstrap was used to help with styling.
+- Used open source jQuery repository for translation functionality.
 
-* Database initialization
+Video Walkthrough: https://youtu.be/JAriAklXGdA
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Other group member: [Ashley Etemadi](https://github.com/aseleidy)
